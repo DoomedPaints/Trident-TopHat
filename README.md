@@ -14,8 +14,18 @@ I designed this mod because I run an EBB36 (CANBus) on my Stealthburner Toolhead
 
 # BOM
 
-Extrusions: 8 "A" Extrusions from you printers BOM Sizes Listed Below
+Extrusions: 
+
+
+            8 "A" Extrusions from you printers BOM. Sizes Listed Below
+
+            250mm: 370mm
+            300mm: 420mm
+            350mm: 470mm
+            
             4 150mm (or however tall you wish to make it) 2020 extrusions with holes for Blind Joints
+
+            
 
 
 Hardware: 
