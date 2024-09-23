@@ -27,7 +27,13 @@ Hardware:
           12 M5 T-Nuts
 
           36 M3x8 SHCS (These are for the Pannel Clips, Reuse the ones from your top panel for the TopHat)
-          4 123.50mm x 383.00mm (HxW) acrylic Panels for all 4 sides
+          4 acrylic Panels for all 4 sides (Another thing that is kit dependent is th Width of these)
+          
+          # WxH
+          
+          250mm: 383mm x 123.50mm
+          300mm: 433mm x 123.50mm
+          350mm: 483mm x 123.50mm
           3mm Foam tape 
 
 Printed Parts:
