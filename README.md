@@ -34,6 +34,8 @@ Hardware:
           250mm: 383mm x 123.50mm
           300mm: 433mm x 123.50mm
           350mm: 483mm x 123.50mm
+          
+          
           3mm Foam tape 
 
 Printed Parts:
