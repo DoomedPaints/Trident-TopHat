@@ -35,6 +35,9 @@ Printed Parts:
 
                14 Corner Panel Clips
                8 Midspan Panel Clips
+
+               (Would recommend to print these with supports for now until I do designed supports)
+               
                1 Trident TopHat A Hinge Top
                1 Trident TopHat B Hinge Top
                1 Trident TopHat A Hinge Bottom
