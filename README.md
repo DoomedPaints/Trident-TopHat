@@ -31,7 +31,7 @@ Extrusions:
 Hardware: 
           
           4 M5x20 BHCS
-          8 M5x16 BHCS
+          24 M5x16 BHCS
           2 M5x50 BHCS
           2 M5 Nylock Nuts
           12 M5 T-Nuts
