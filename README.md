@@ -2,7 +2,7 @@
 A Repository of the Mod (Trident TopHat for the Voron Trident)
 
 
-# What is this mods purpose?
+# What is the purpose of this mod?
 
 I designed this mod because I run an EBB36 (CANBus) on my Stealthburner Toolhead. I utilize cable glands for strain relief going from my tool head to the A Motor mounts. This mod is to give a little extra head room for anyone who deals with a similar issue. 
 
