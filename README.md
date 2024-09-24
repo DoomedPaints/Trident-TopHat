@@ -37,6 +37,7 @@ Hardware:
           12 M5 T-Nuts
 
           36 M3x8 SHCS (These are for the Pannel Clips, Reuse the ones from your top panel for the TopHat)
+          36 M3 T-Nuts
           4 acrylic Panels for all 4 sides (Another thing that is kit dependent is th Width of these)
           
           # WxH
@@ -66,3 +67,11 @@ Printed Parts:
 
 
 ![Screenshot 2024-09-23 000132](https://github.com/user-attachments/assets/498ff589-d402-4fdb-886f-8b89ee4796c9)
+
+
+The kit that I will be using, as I dont have one made yet, will be custom done by @kbreezy24 from KB3D (link will be down below to the web store)
+![10](https://github.com/user-attachments/assets/996d4ca8-9840-482a-9fd9-c799468e961c)
+
+https://kb-3d.com/store/
+
+
